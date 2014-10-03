@@ -3,7 +3,7 @@ body {
 }
 
 .mapContainer {
-  background-image: url("../img/sanjoseMapPlaceholder.jpg");
+  /*background-image: url("../img/sanjoseMapPlaceholder.jpg");*/
   background-size: contain;
   height: 800px;
 }
