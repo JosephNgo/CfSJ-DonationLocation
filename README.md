@@ -3,9 +3,9 @@ CfSJ-DonationLocation
 
 ###The goal of this project is to provide a map of donation locations, needs and business hours.
 ======
-User story: Find the closest donation location and what their top 3 needs are
+#####User story: Find the closest donation location and what their top 3 needs are
 ======
-Design: Done
+#####Design: Done
 ======
 
 The To-Do List
